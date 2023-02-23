@@ -216,5 +216,14 @@ label {
 	padding: 1.125em /*18px */;
 	text-align: center;
 	color: #FFFFFF;
+}
+#p{
+	font-size:1em/*16px*/;
+	padding:.5em/*8px*/;
+	font-family: "Times New Roman", serif;
+	background-color:#505050;
+	color: blue;
+	text-align: center;
+}
 
 /* ===== STATE STYLES ======= */
