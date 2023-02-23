@@ -204,5 +204,17 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+#heading{
+	font-size: 2.25em /*36px */;
+	font-family: 'Kanit', sans-serif;
+	background-color: #818589;
+	display: block;
+	box-sizing: border-box;
+	margin: auto;
+	width: 100%;
+	resize: vertical;
+	padding: 1.125em /*18px */;
+	text-align: center;
+	color: #FFFFFF;
 
 /* ===== STATE STYLES ======= */
