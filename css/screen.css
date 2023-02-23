@@ -247,4 +247,18 @@ label {
 	padding:1em/*16px*/ ;
 	text-align: center ;
 }
+#input-submit{
+	font-family: 'Oswald', sans-serif;
+	background-color: #818589;
+	display: block;
+	box-sizing: border-box;
+	margin: auto;
+	width: 100%;
+	padding:1em/*16px*/;
+	text-align: center;
+}
+#input{
+	border: none;
+}
+	
 /* ===== STATE STYLES ======= */
