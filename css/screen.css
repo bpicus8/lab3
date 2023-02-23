@@ -235,6 +235,7 @@ label {
 	resize: vertical;
 	padding: 1em/*16px*/ ;
 	text-align:  center;
+	color: #FFFFFF;
 }
 #input-age-verification{
 	font-family: 'Oswald', sans-serif;
@@ -245,7 +246,8 @@ label {
 	width: 100%;
 	resize: vertical ;
 	padding:1em/*16px*/ ;
-	text-align: center ;
+	text-align: center;
+	color: #FFFFFF;
 }
 #input-submit{
 	font-family: 'Oswald', sans-serif;
@@ -256,6 +258,7 @@ label {
 	width: 100%;
 	padding:1em/*16px*/;
 	text-align: center;
+	color: #FFFFFF;
 }
 #input{
 	border: none;
