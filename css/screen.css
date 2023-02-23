@@ -222,11 +222,11 @@ label {
 	padding: 1em/*16px*/;
 	font-family: "Times New Roman", serif;
 	background-color:#505050;
-	color: #FFFFFF;
+	color: #ff0000;
 	text-align: center;
 }
 #input-email{
-	font-family: 'Varela Round', sans-serif;;
+	font-family: 'Oswald', sans-serif;
 	background-color:#818589;
 	display:block;
 	box-sizing: border-box;
@@ -235,5 +235,16 @@ label {
 	resize: vertical;
 	padding: 1em/*16px*/ ;
 	text-align:  center;
+}
+#input-age-verification{
+	font-family: 'Oswald', sans-serif;
+	background-color:#505050 ;
+	display:block ;
+	box-sizing: border-box ;
+	margin:auto ;
+	width: 100%;
+	resize: vertical ;
+	padding:1em/*16px*/ ;
+	text-align: center ;
 }
 /* ===== STATE STYLES ======= */
